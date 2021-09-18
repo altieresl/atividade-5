@@ -16,4 +16,8 @@ Lista de tópicos:
 3. Terceiro item
 
 Link:
+
 [UFLA](https://ufla.br/)
+
+Imagem:
+![Banner Coronavirus](/imgs/Coronavirus-Banner-Portal-UFLA.jpg)
