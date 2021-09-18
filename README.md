@@ -9,3 +9,8 @@ Trecho de código:
 def is_odd(number):
     return number % 2 == 1
 ```
+
+Lista de tópicos:
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
