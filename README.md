@@ -2,6 +2,7 @@
 Repositório para a atividade 5 de GCC132
 
 _Texto em itálico_
+
 **Texto em negrito**
 
 Trecho de código:
